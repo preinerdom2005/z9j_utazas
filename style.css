@@ -23,8 +23,8 @@ header h1 {
   color: red !important;
 }
 
-p {
-  text-align: justify;
+h1 {
+  text-align: center;
 }
 .orszag {
   background-color: #1e90ff;
